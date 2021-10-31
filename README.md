@@ -7,4 +7,4 @@ My name is Apoorv Lokhande and currently I am pursuing master's degree in Comput
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Visual Studio-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Visual Studio-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
