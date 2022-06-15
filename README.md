@@ -19,9 +19,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer :computer: from India.
+I am currently a Masters :smile: Student :computer: at IIITD, India.
 
-- :telescope: I’m working as a Software Engineer.
+- :telescope: I’m about to start my career as a Software Engineer @ Natwest Group.
 
 - :zap: In my free time, I love to play :badminton: and watch movies.
 
