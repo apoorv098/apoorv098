@@ -4,6 +4,7 @@
       <a href="https://www.linkedin.com/in/apoorv-lokhande-a95b4a160/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+     
     </div>
   <img src="https://komarev.com/ghpvc/?username=apoorv098&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -25,7 +26,9 @@ I am currently a Masters :smile: Student :computer: at IIITD, India.
 
 - :zap: In my free time, I love to play :badminton: and watch movies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-lokhande-a95b4a160/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-lokhande-a95b4a160/), [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:apoorv2001.99@gmail.com)](mailto:apoorv2001.99@gmail.com)
+
+ 
 
 
 ---
