@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am Alumni of :smile: IIITD, India.
 
-- :telescope: Currently I am a Software Engineer @ Natwest Group.
+- :telescope: Currently I am a Software Engineer @ NatWest Group.
 
 - :zap: In my free time, I love to play :badminton: and watch movies.
 
