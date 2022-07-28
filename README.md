@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am Alumni :smile: Student :computer: at IIITD, India.
+I am Alumni of :smile: IIITD, India.
 
 - :telescope: Currently I am a Software Engineer @ Natwest Group.
 
